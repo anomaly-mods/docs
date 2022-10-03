@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://anomaly-mods.github.io/docs/docs/blog</id>
+    <title>Anomaly Modding Docs Blog</title>
+    <updated>2022-08-24T00:00:00.000Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="https://anomaly-mods.github.io/docs/docs/blog"/>
+    <subtitle>Anomaly Modding Docs Blog</subtitle>
+    <icon>https://anomaly-mods.github.io/docs/docs/img/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[New Docs Site]]></title>
+        <id>new-docs-site</id>
+        <link href="https://anomaly-mods.github.io/docs/docs/blog/new-docs-site"/>
+        <updated>2022-08-24T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Hey all.]]></summary>
+        <content type="html"><![CDATA[<p>Hey all. </p><p>There's a new docs site for Anomaly modding... and you're looking at it!</p><h2 class="anchor anchorWithStickyNavbar_LWe7" id="docusaurus">Docusaurus<a class="hash-link" href="#docusaurus" title="Direct link to heading">​</a></h2><p>The new site is built ontop of <a href="https://docusaurus.io" target="_blank" rel="noopener noreferrer">Docusaurus V2</a>.</p><p>Docusaurus is a pretty great static site generator from Facebook. It's basically NextJS with the SSR ripped out.</p><p>Here are some highlights:</p><ul><li>Normal React TSX development for pages</li><li>MDX support for content (Markdown + React)</li><li>Has a nice blog</li><li>Offline search</li><li>Powerful automatic sidebar support</li><li>Easy to add docs for new tools, libs and plugins</li></ul><p>If you're just trying to contribute documentation or an article it doesn't get easier:</p><ul><li>edit markdown files under the <a href="https://github.com/anomaly-mods/docs/tree/main/docs" target="_blank" rel="noopener noreferrer">docs/</a> or <a href="https://github.com/anomaly-mods/docs/tree/main/docs" target="_blank" rel="noopener noreferrer">blog/</a></li><li>submit a pull request</li></ul><p>That's it!</p>]]></content>
+        <author>
+            <name>ldlework</name>
+        </author>
+        <category label="news" term="news"/>
+    </entry>
+</feed>

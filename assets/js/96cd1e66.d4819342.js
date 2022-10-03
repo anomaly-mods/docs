@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkanomaly_mods_docs=self.webpackChunkanomaly_mods_docs||[]).push([[971],{6442:s=>{s.exports=JSON.parse('[{"label":"news","permalink":"/docs/blog/tags/news","count":1}]')}}]);
