@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkanomaly_mods_docs=self.webpackChunkanomaly_mods_docs||[]).push([[2442],{2369:s=>{s.exports=JSON.parse('{"name":"docusaurus-plugin-content-docs","id":"tools"}')}}]);

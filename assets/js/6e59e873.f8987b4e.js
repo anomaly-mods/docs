@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkanomaly_mods_docs=self.webpackChunkanomaly_mods_docs||[]).push([[695],{4533:o=>{o.exports=JSON.parse('{"permalink":"/docs/blog","page":1,"postsPerPage":10,"totalPages":1,"totalCount":1,"blogDescription":"Blog","blogTitle":"Blog"}')}}]);

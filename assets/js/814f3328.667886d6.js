@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkanomaly_mods_docs=self.webpackChunkanomaly_mods_docs||[]).push([[2535],{5641:s=>{s.exports=JSON.parse('{"title":"Recent posts","items":[{"title":"New Docs Site","permalink":"/docs/blog/new-docs-site"}]}')}}]);
