@@ -1,0 +1,21 @@
+{
+    "files.exclude": {
+        "**/.git": true,
+        "**/.svn": true,
+        "**/.hg": true,
+        "**/CVS": true,
+        "**/.DS_Store": true,
+        "**/Thumbs.db": true,
+        "docusaurus.config.js": true,
+        "babel.config.js": true,
+        ".docusaurus": true,
+    },
+    "cSpell.enabled": true,
+    "cSpell.enableFiletypes": [
+        "mdx"
+    ],
+    "cSpell.words": [
+        "extensionless"
+    ],
+    "editor.wordWrap": "on"
+}
